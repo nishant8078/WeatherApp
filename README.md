@@ -13,6 +13,7 @@ step 2) click on your name in side of support as shown in figure below
 you can copy your api Key.
 
 step 3) in .env file of the weather-app folder replace my **api key**  with your key that you have copied in step 2.
+
 step 4) ctrl+s
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
